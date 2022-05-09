@@ -518,6 +518,9 @@ h3{
 .contact-col div p{
     padding: 0;
 }
+label {
+    color: #555;
+}
 .contact-col div h5{
     font-size: 20px;
     margin-bottom: 20px;
@@ -531,6 +534,7 @@ h3{
     outline: none;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    
 }
 
 

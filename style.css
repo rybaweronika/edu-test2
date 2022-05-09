@@ -350,6 +350,13 @@ h3{
     .row{
         flex-direction: column;
     }
+    /*----- About ----*/
+    .about-col {
+        flex-direction: column;
+    }
+    .about-col img{
+        width: 100%;
+    }
     /*  testimonial */
     .testimonial-col img{
         margin-left: 0px;
